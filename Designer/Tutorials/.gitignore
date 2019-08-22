@@ -1,0 +1,4 @@
+# Gitignore for Substance Designer Projects
+
+# Setup to ignore autosaves
+.autosave/*
